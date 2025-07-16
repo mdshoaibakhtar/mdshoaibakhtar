@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Shoaib Akhtar</h1>
-<h3 align="center">A Passionate Software Developer from India.</h3>
+<h1 align="center">Hi, I'm Md Shoaib Akhtar <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/hi.gif" width="28px" height="28px" alt="hi" /></h1>
+<!-- <h3 align="center">A Passionate Software Developer from India.</h3> -->
+<h2 align="center">Software Developer from India <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/flag.gif" width="30px" height="21px" alt="flag" /></h2>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/coder.gif" />
 
 - 🔭 I’m currently working on [Jobdotjs - A Job Platform](https://jobdotjs.vercel.app)
 
@@ -12,7 +14,9 @@
 - 📫 How to reach me **imdshoaibakhtar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+<a href="https://www.linkedin.com/in/mdshoaibakhtar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/linkedin.gif" alt="https://www.linkedin.com/in/mdshoaibakhtar/" height="40" width="40" /></a>
 <a href="https://twitter.com/mdshoaibakhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdshoaibakhtar" height="30" width="40" /></a>
 <a href="https://instagram.com/imdshoaibakhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imdshoaibakhtar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdshoaibakhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdshoaibakhtar" height="30" width="40" /></a>
