@@ -139,6 +139,14 @@
          height="70"
       />
    </a>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img
+         src="https://miro.medium.com/v2/resize:fit:720/1*_bJ2z2NRfTncHAv5UjUxwA.jpeg"
+         alt="figma"
+         width="90"
+         height="70"
+      />
+   </a>
    </p>
 <p align="left">
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
