@@ -201,10 +201,19 @@
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mdshoaibakhtar&show_icons=true&locale=en&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=mdshoaibakhtar&theme=default&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=mdshoaibakhtar&theme=default&hide_border=false)<br/>
+| <a href="https://github.com/mdshoaibakhtar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshoaibakhtar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mdshoaibakhtar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshoaibakhtar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+#### Top Repositories
+
+
+<a href="https://github.com/mdshoaibakhtar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdshoaibakhtar&repo=Job.js&theme=buefy" />
+</a>
+<a href="https://github.com/mdshoaibakhtar/mdshoaibakhtar.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdshoaibakhtar&repo=Talent-Analyser&theme=buefy" />
+</a>
+
+<br />
+<br />
 
