@@ -207,9 +207,7 @@
 #### Top Repositories
 
 
-<a href="https://github.com/mdshoaibakhtar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdshoaibakhtar&repo=Job.js&theme=buefy" />
-</a>
+
 <a href="https://github.com/mdshoaibakhtar/mdshoaibakhtar.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdshoaibakhtar&repo=Talent-Analyser&theme=buefy" />
 </a>
